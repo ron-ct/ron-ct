@@ -12,7 +12,8 @@
                               3. Processing speed: Ranged from 50,000 to 100,000 instructions per second.
                               4. Clock speed: 1.024 MHz.
                               5. Unique storage technology: Used rope memory.
-            You are probably viewing this on a PC, Smartphone or Smart device that is 100,000 times more powerful than the computer that took humans to the moon! 🤯🤯🤯
+
+You are probably viewing this on a PC, Smartphone or Smart device that is 100,000 times more powerful than the computer that took humans to the moon! 🤯🤯🤯
                               
 
 <!---
