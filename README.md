@@ -1,5 +1,5 @@
-👋 Hi, I’m @ron-ct - Rony Maruga
-👀 I’m fascinated by how Software makes Life easier and convenient.
+👋 Hi, I’m Rony Maruga
+
 🌱 I’m currently learning Python and Javascript. I am also a student at the Jomo Kenyatta University of Agriculture and Technology
 🤝 I’m looking to collaborate on Open source projects and new Technologies.
 📫 How to reach me  ->  https://ke.linkedin.com/in/rony-maruga-a7603b2a1
