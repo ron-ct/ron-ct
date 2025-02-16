@@ -1,6 +1,6 @@
 👋 Hi, I’m Rony Maruga
 
-🌱 I’m currently learning Python and Javascript. I am also a student at the Jomo Kenyatta University of Agriculture and Technology
+🌱 I am an upcoming Software Developer. I am also a student at the Jomo Kenyatta University of Agriculture and Technology
 🤝 I’m looking to collaborate on Open source projects and new Technologies.
 📫 How to reach me  ->  ronymaruga@outlook.com
 
